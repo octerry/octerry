@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on terrysegaunes.fr and Bibimbap<br>🌱 I’m currently learning Vue.js, Dart & Flutter
+🔭 I’m currently working on terrysegaunes.fr and Dewey bot<br>🌱 I’m currently learning Vue.js, Dart & Flutter
 
 
 ## 🌐 Socials:
